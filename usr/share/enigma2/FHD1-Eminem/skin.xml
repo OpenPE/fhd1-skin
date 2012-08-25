@@ -985,10 +985,10 @@ self.instance.move(ePoint((1280-wsizex)/2, (720-wsizey)/(count &gt; 7 and 2 or 3
       <convert type="StringList" />
     </widget>
     <widget name="config" zPosition="1" position="20,300" size="560,200" scrollbarMode="showOnDemand" />
-    <widget name="rc" pixmap="FHD1-Eminem/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
-    <widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="rc" pixmap="skin_default/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
   </screen>
   <!--  104 Default Wizard -->
   <screen name="DefaultWizard" position="340,134" size="600,500" title="Welcome...">
@@ -1001,10 +1001,10 @@ self.instance.move(ePoint((1280-wsizex)/2, (720-wsizey)/(count &gt; 7 and 2 or 3
       <convert type="StringList" />
     </widget>
     <widget name="config" zPosition="1" position="20,300" size="560,200" scrollbarMode="showOnDemand" />
-    <widget name="rc" pixmap="FHD1-Eminem/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
-    <widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="rc" pixmap="skin_default/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
   </screen>
   <!-- 105 Restore backups Wizard SM -->
   <screen name="ImageWizard" position="0,0" size="1280,720" title="Welcome..." flags="wfNoBorder">
@@ -1017,11 +1017,11 @@ self.instance.move(ePoint((1280-wsizex)/2, (720-wsizey)/(count &gt; 7 and 2 or 3
     <ePixmap pixmap="FHD1-Eminem/buttons/button_red.png" position="240,320" zPosition="0" size="15,16" transparent="1" alphatest="on" />
     <widget name="languagetext" position="270,320" size="95,30" font="Regular;18" />
     <widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="220,120" zPosition="10" size="140,188" alphatest="on" />
-    <widget name="rc" pixmaps="FHD1-Eminem/rc.png,FHD1-Eminem/rcold.png" position="810,120" zPosition="10" size="154,500" alphatest="on" />
-    <widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowdown2" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="rc" pixmaps="skin_default/rc.png,skin_default/rcold.png" position="810,120" zPosition="10" size="154,500" alphatest="on" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowdown2" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
   </screen>
   <!-- 106 LanguageWizard -->
   <screen name="LanguageWizard" position="0,0" size="1280,720" title="Welcome..." flags="wfNoBorder">
@@ -1039,11 +1039,11 @@ self.instance.move(ePoint((1280-wsizex)/2, (720-wsizey)/(count &gt; 7 and 2 or 3
 			</convert>
     </widget>
     <widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="40,50" zPosition="10" size="140,188" alphatest="on" />
-    <widget name="rc" pixmaps="FHD1-Eminem/rc.png,FHD1-Eminem/rcold.png" position="500,50" zPosition="10" size="154,500" alphatest="on" />
-    <widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowdown2" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
-    <widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="rc" pixmaps="skin_default/rc.png,skin_default/rcold.png" position="500,50" zPosition="10" size="154,500" alphatest="on" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowdown2" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
   </screen>
   <!--  107 EPG Selection ( 4 )-->
   <screen name="EPGSelection" position="0,0" size="1280,720" title="EPG Selection">
@@ -1199,13 +1199,13 @@ self.instance.move(ePoint((1280-wsizex)/2, (720-wsizey)/(count &gt; 7 and 2 or 3
     <ePixmap pixmap="FHD1-Eminem/frame_base-fs8.png" zPosition="-1" position="0,0" size="1280,720" alphatest="on" />
     <ePixmap position="1164,135" zPosition="2" size="26,504" pixmap="FHD1-Eminem/scroll_help.png" alphatest="blend" transparent="1" />
     <eLabel text="help..." position="450,63" size="740,50" font="Regular;40" halign="center" backgroundColor="transpBlack" transparent="1" />
-    <widget name="rc" position="150,105" size="154,500" pixmaps="FHD1-Eminem/rc.png,FHD1-Eminem/rcold.png" zPosition="10" alphatest="on" />
+    <widget name="rc" position="150,105" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" alphatest="on" />
     <widget name="long_key" position="80,585" size="300,30" font="Regular;24" halign="center" foregroundColor="transpBlack" backgroundColor="transpBlack" transparent="1" />
     <widget name="list" position="450,140" size="740,494" scrollbarMode="showOnDemand" transparent="1" />
-    <widget name="arrowdown" position="-100,-100" size="37,70" pixmap="FHD1-Eminem/arrowdown.png" zPosition="11" alphatest="on" />
-    <widget name="arrowdown2" position="-100,-100" size="37,70" pixmap="FHD1-Eminem/arrowdown.png" zPosition="11" alphatest="on" />
-    <widget name="arrowup" position="-100,-100" size="37,70" pixmap="FHD1-Eminem/arrowup.png" zPosition="11" alphatest="on" />
-    <widget name="arrowup2" position="-100,-100" size="37,70" pixmap="FHD1-Eminem/arrowup.png" zPosition="11" alphatest="on" />
+    <widget name="arrowdown" position="-100,-100" size="37,70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="on" />
+    <widget name="arrowdown2" position="-100,-100" size="37,70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="on" />
+    <widget name="arrowup" position="-100,-100" size="37,70" pixmap="skin_default/arrowup.png" zPosition="11" alphatest="on" />
+    <widget name="arrowup2" position="-100,-100" size="37,70" pixmap="skin_default/arrowup.png" zPosition="11" alphatest="on" />
   </screen>
   <!-- 115 Language Selection -->
   <screen name="LanguageSelection" position="center,center" size="710,520" title="Language selection">
@@ -1725,11 +1725,11 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)/2, orgpos.y()))
       <convert type="StringList" />
     </widget>
     <widget name="config" zPosition="1" position="20,300" size="560,200" scrollbarMode="showOnDemand" transparent="1" />
-    <widget name="rc" pixmap="FHD1-Eminem/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
-    <widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowdown2" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
-    <widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="rc" pixmap="skin_default/rc.png" position="600,502" zPosition="10" size="154,500" transparent="1" alphatest="on" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowdown2" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" />
   </screen>
   <!-- 149 Sleep Timer Edit  -->
   <screen name="SleepTimerEdit" position="340,240" size="660,260" title="Sleep Timer">
@@ -1957,7 +1957,7 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)/2, orgpos.y()))
 		MultiContentEntryText(pos = (360, 7), size = (215, 30), flags = RT_HALIGN_LEFT, text = 1)],
 		"fonts": [gFont("Regular", 20)],
 		"itemHeight": 32 }
-		</convert></widget></screen><!-- 179 Pic_Setup (Picture) ( 2 )--><screen name="Pic_Setup" position="center,center" size="710,340" title="Settings"><ePixmap pixmap="FHD1-Eminem/frame_box-fs8.png" zPosition="-1" position="0,0" size="710,340" alphatest="on" /><widget name="config" position="20,20" size="670,450" zPosition="3" scrollbarMode="showOnDemand" transparent="1" /><ePixmap pixmap="FHD1-Eminem/buttons/red25.png" position=" 70,280" size="250,40" zPosition="1" alphatest="blend" /><ePixmap pixmap="FHD1-Eminem/buttons/green25.png" position="390,280" size="250,40" zPosition="1" alphatest="blend" /><widget source="key_red" render="Label" position="70,280" size="250,40" zPosition="2" font="Regular;24" halign="center" valign="center" transparent="1" backgroundColor="transpBlack" /><widget source="key_green" render="Label" position="390,280" size="250,40" zPosition="2" font="Regular;24" halign="center" valign="center" transparent="1" backgroundColor="transpBlack" /></screen><!-- 180 Input Box --><screen name="InputBox" position="365,250" size="550,90" title="Input"><widget name="text" position="10,20" size="550,25" font="Regular;23" /><widget name="input" position="10,55" size="550,25" font="Regular;20" /></screen><!-- 181 Dream Package Wizard --><screen name="DreamPackageWizard" position="280,70" size="1280,720" title="Welcome..." flags="wfNoBorder"><widget name="text" position="153,50" size="340,270" font="Regular;23" /><widget source="list" render="Listbox" position="50,300" size="440,200" scrollbarMode="showOnDemand"><convert type="StringList" /></widget><ePixmap pixmap="FHD1-Eminem/buttons/button_red.png" position="40,225" size="15,16" alphatest="on" /><widget name="languagetext" position="55,225" size="95,30" font="Regular;18" /><widget name="config" position="50,300" zPosition="1" size="440,200" transparent="1" scrollbarMode="showOnDemand" /><widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="40,50" zPosition="10" size="140,188" transparent="1" alphatest="on" /><widget name="rc" pixmap="FHD1-Eminem/rc.png" position="500,600" zPosition="10" size="154,500" transparent="1" alphatest="on" /><widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /><widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /><widget name="arrowup2" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /></screen><!-- 182 Network Wizard --><screen name="NetworkWizard" position="0,0" size="1280,720" title="Welcome..." flags="wfNoBorder"><widget name="text" position="480,110" size="340,400" font="Regular;24" /><widget source="list" render="Listbox" position="380,410" size="440,180" scrollbarMode="showOnDemand"><convert type="StringList" /></widget><widget name="config" position="333,410" zPosition="1" size="440,180" transparent="1" scrollbarMode="showOnDemand" /><ePixmap pixmap="FHD1-Eminem/buttons/button_red.png" position="260,354" zPosition="0" size="15,16" transparent="1" alphatest="on" /><widget name="languagetext" position="290,350" size="100,30" font="Regular;20" /><widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="240,140" zPosition="10" size="140,188" alphatest="on" /><widget name="rc" pixmaps="FHD1-Eminem/rc.png,FHD1-Eminem/rcold.png" position="880,120" zPosition="10" size="154,500" alphatest="on" /><widget name="arrowdown" pixmap="FHD1-Eminem/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" /><widget name="arrowup" pixmap="FHD1-Eminem/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" /></screen><!-- Softwaremanager  (software management) --><!--183  Update Plugin Menu  ( 1 )--><screen name="UpdatePluginMenu" position="center,center" size="1160,560" title="Softwaremanager..."><ePixmap pixmap="FHD1-Eminem/frame_box-fs8.png" zPosition="-1" position="0,0" size="1160,560" alphatest="on" /><ePixmap pixmap="FHD1-Eminem/buttons/red25.png" position="455,500" size="250,40" alphatest="on" zPosition="1" /><widget source="key_red" render="Label" position="455,500" zPosition="2" size="250,40" font="Regular;24" halign="center" valign="center" backgroundColor="transpBlack" transparent="1" /><widget source="menu" render="Listbox" position="440,20" size="650,500" zPosition="3" scrollbarMode="showNever" selectionPixmap="FHD1-Eminem/icons/listselection450x38-fs8.png" backgroundPixmap="FHD1-Eminem/icons/butselection.png" transparent="1"><convert type="TemplatedMultiContent">
+		</convert></widget></screen><!-- 179 Pic_Setup (Picture) ( 2 )--><screen name="Pic_Setup" position="center,center" size="710,340" title="Settings"><ePixmap pixmap="FHD1-Eminem/frame_box-fs8.png" zPosition="-1" position="0,0" size="710,340" alphatest="on" /><widget name="config" position="20,20" size="670,450" zPosition="3" scrollbarMode="showOnDemand" transparent="1" /><ePixmap pixmap="FHD1-Eminem/buttons/red25.png" position=" 70,280" size="250,40" zPosition="1" alphatest="blend" /><ePixmap pixmap="FHD1-Eminem/buttons/green25.png" position="390,280" size="250,40" zPosition="1" alphatest="blend" /><widget source="key_red" render="Label" position="70,280" size="250,40" zPosition="2" font="Regular;24" halign="center" valign="center" transparent="1" backgroundColor="transpBlack" /><widget source="key_green" render="Label" position="390,280" size="250,40" zPosition="2" font="Regular;24" halign="center" valign="center" transparent="1" backgroundColor="transpBlack" /></screen><!-- 180 Input Box --><screen name="InputBox" position="365,250" size="550,90" title="Input"><widget name="text" position="10,20" size="550,25" font="Regular;23" /><widget name="input" position="10,55" size="550,25" font="Regular;20" /></screen><!-- 181 Dream Package Wizard --><screen name="DreamPackageWizard" position="280,70" size="1280,720" title="Welcome..." flags="wfNoBorder"><widget name="text" position="153,50" size="340,270" font="Regular;23" /><widget source="list" render="Listbox" position="50,300" size="440,200" scrollbarMode="showOnDemand"><convert type="StringList" /></widget><ePixmap pixmap="FHD1-Eminem/buttons/button_red.png" position="40,225" size="15,16" alphatest="on" /><widget name="languagetext" position="55,225" size="95,30" font="Regular;18" /><widget name="config" position="50,300" zPosition="1" size="440,200" transparent="1" scrollbarMode="showOnDemand" /><widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="40,50" zPosition="10" size="140,188" transparent="1" alphatest="on" /><widget name="rc" pixmap="skin_default/rc.png" position="500,600" zPosition="10" size="154,500" transparent="1" alphatest="on" /><widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /><widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /><widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" transparent="1" alphatest="on" /></screen><!-- 182 Network Wizard --><screen name="NetworkWizard" position="0,0" size="1280,720" title="Welcome..." flags="wfNoBorder"><widget name="text" position="480,110" size="340,400" font="Regular;24" /><widget source="list" render="Listbox" position="380,410" size="440,180" scrollbarMode="showOnDemand"><convert type="StringList" /></widget><widget name="config" position="333,410" zPosition="1" size="440,180" transparent="1" scrollbarMode="showOnDemand" /><ePixmap pixmap="FHD1-Eminem/buttons/button_red.png" position="260,354" zPosition="0" size="15,16" transparent="1" alphatest="on" /><widget name="languagetext" position="290,350" size="100,30" font="Regular;20" /><widget name="wizard" pixmap="FHD1-Eminem/wizard.png" position="240,140" zPosition="10" size="140,188" alphatest="on" /><widget name="rc" pixmaps="skin_default/rc.png,skin_default/rcold.png" position="880,120" zPosition="10" size="154,500" alphatest="on" /><widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" /><widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" /></screen><!-- Softwaremanager  (software management) --><!--183  Update Plugin Menu  ( 1 )--><screen name="UpdatePluginMenu" position="center,center" size="1160,560" title="Softwaremanager..."><ePixmap pixmap="FHD1-Eminem/frame_box-fs8.png" zPosition="-1" position="0,0" size="1160,560" alphatest="on" /><ePixmap pixmap="FHD1-Eminem/buttons/red25.png" position="455,500" size="250,40" alphatest="on" zPosition="1" /><widget source="key_red" render="Label" position="455,500" zPosition="2" size="250,40" font="Regular;24" halign="center" valign="center" backgroundColor="transpBlack" transparent="1" /><widget source="menu" render="Listbox" position="440,20" size="650,500" zPosition="3" scrollbarMode="showNever" selectionPixmap="FHD1-Eminem/icons/listselection450x38-fs8.png" backgroundPixmap="FHD1-Eminem/icons/butselection.png" transparent="1"><convert type="TemplatedMultiContent">
 				{"template": [
 						MultiContentEntryText(pos = (60, 2), size = (390, 38), flags = RT_HALIGN_LEFT, text = 1), # index 0 is the MenuText,
 					],

@@ -1,10 +1,10 @@
-FHD1 Skin By Naser (Eminem) - Based On Mood Blue HD Skin By Army
+FHD1 skin by Naser (Eminem) - Based on Mood Blue HD skin by Army
 =========
 
-Persian Professionals Official Website :
+Persian Professionals official website :
 
 https://pe4k.com
 
-Black Hole Official Website :
+Black Hole official website :
 
 http://www.vuplus-community.net
